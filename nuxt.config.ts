@@ -4,4 +4,5 @@ export default defineNuxtConfig({
   css: ['~/assets/css/fonts.css', '~/assets/css/main.css'],
   devtools: { enabled: false },
   modules: ['@nuxt/ui', '@nuxt/image'],
+  compatibilityDate: '2025-04-24',
 })
