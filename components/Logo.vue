@@ -1,0 +1,10 @@
+<template>
+  <img
+    src="../public/logotype.svg"
+    width="221px"
+    height="61px"
+    alt="Logo"
+    class="logo"
+    @click="goToHome"
+  />
+</template>

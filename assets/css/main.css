@@ -1,0 +1,13 @@
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply scrollbar-thumb-primary bg-[#242424] text-[#ffffff] scrollbar-thin;
+}
+.images{
+  background: #0000007a;
+}
+.images img{
+  height: 50% !important;
+}
